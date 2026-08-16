@@ -1,0 +1,24 @@
+data/
+│ raw/
+│ processed/
+
+notebooks/
+│ exploratory_analysis.ipynb
+│ model_training.ipynb
+
+src/
+│ preprocessing.py
+│ train_model.py
+│ predict.py
+
+models/
+
+reports/
+
+images/
+
+requirements.txt
+
+README.md
+
+LICENSE
