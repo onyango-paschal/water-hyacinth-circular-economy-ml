@@ -9,12 +9,21 @@ Composting
 Bioethanol production
 Bioproduct development
 
-Objectives:
+Project objectives:
 
 Predict biomass conversion yields
 Optimize processing parameters
 Assess economic feasibility
 Support circular bioeconomy initiatives
+
+ML objectives:
+
+Predict biogas yield from water hyacinth properties
+Predict biochar quality
+Optimize pretreatment methods
+Classify suitable conversion pathways
+Estimate economic viability
+Forecast infestation biomass availability
 
 Technologies:
 
