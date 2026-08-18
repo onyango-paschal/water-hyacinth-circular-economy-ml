@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Initial commit: water hyacinth ML pipeline"
+git branch -M main
+git remote add origin https://github.com/YOURUSERNAME/water-hyacinth-valorization-ml.git
+git push -u origin main
