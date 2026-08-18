@@ -48,5 +48,4 @@ If you use this, please cite...
 Active development.
 
 ## Author
-Paschal Onyango
-Lead Program Coordinator, Global Impact Innovators-Kenya
+Paschal Onyango (Lead Program Coordinator, Global Impact Innovators-Kenya)
